@@ -1,5 +1,5 @@
 # Flutter_Sample
-This is a sample Flutter app
+This is a sample Flutter app.<br>
 It is supposed to contain the following functionalities:
 * Home Screen
 * Login Screen
